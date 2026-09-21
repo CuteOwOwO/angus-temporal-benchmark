@@ -1,0 +1,6074 @@
+[
+  {
+    "qa_id": "qarep2_00aa9b93a15bcc",
+    "sample_id": "esc50repv2_1b64422667e0f3",
+    "audio_file": "audio/esc50repv2_1b64422667e0f3.wav",
+    "question": "After the first section containing a knock on a wooden door, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "water pouring"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "a mouse click"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_01af017c352c2a",
+    "sample_id": "esc50repv2_5b0aa7435456cc",
+    "audio_file": "audio/esc50repv2_5b0aa7435456cc.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing an engine?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_03d916ab6b5cff",
+    "sample_id": "esc50repv2_91b52c5098485b",
+    "audio_file": "audio/esc50repv2_91b52c5098485b.wav",
+    "question": "At which position does rain return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fifth"
+      },
+      {
+        "key": "B",
+        "text": "second"
+      },
+      {
+        "key": "C",
+        "text": "third"
+      },
+      {
+        "key": "D",
+        "text": "fourth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_0451f0832a8d96",
+    "sample_id": "esc50repv2_47cf1511e92f0e",
+    "audio_file": "audio/esc50repv2_47cf1511e92f0e.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "coughing"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_04e8271ad2fa28",
+    "sample_id": "esc50repv2_9c62e19444958c",
+    "audio_file": "audio/esc50repv2_9c62e19444958c.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "coughing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_06d6feaa09853e",
+    "sample_id": "esc50repv2_15c9a38b5d421e",
+    "audio_file": "audio/esc50repv2_15c9a38b5d421e.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "B",
+        "text": "water pouring"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_0adfe373a4b08d",
+    "sample_id": "esc50repv2_d5df589c409e25",
+    "audio_file": "audio/esc50repv2_d5df589c409e25.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren → a thunderstorm → a siren → an engine → laughter"
+      },
+      {
+        "key": "B",
+        "text": "a siren → a thunderstorm → a siren → laughter → an engine"
+      },
+      {
+        "key": "C",
+        "text": "a thunderstorm → a siren → a siren → an engine → laughter"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm → a siren → an engine → laughter → a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_0e23aeacc3a871",
+    "sample_id": "esc50repv2_c43c1e475864ae",
+    "audio_file": "audio/esc50repv2_c43c1e475864ae.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sneezing"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_0ed00e4aae5c1f",
+    "sample_id": "esc50repv2_6f4e95edf6d7bf",
+    "audio_file": "audio/esc50repv2_6f4e95edf6d7bf.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_0efcf83cd2a2a1",
+    "sample_id": "esc50repv2_e5c758a86a5a2e",
+    "audio_file": "audio/esc50repv2_e5c758a86a5a2e.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a frog"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "sea waves"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_122223b19d2271",
+    "sample_id": "esc50repv2_bbbfe6e92445bf",
+    "audio_file": "audio/esc50repv2_bbbfe6e92445bf.wav",
+    "question": "Which sound type begins third?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "D",
+        "text": "a toilet flush"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_12bdf01f5309cf",
+    "sample_id": "esc50repv2_5c1fe7329d2743",
+    "audio_file": "audio/esc50repv2_5c1fe7329d2743.wav",
+    "question": "Which sound type begins third?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_16f5d24c488f0e",
+    "sample_id": "esc50repv2_55e73638ac22e5",
+    "audio_file": "audio/esc50repv2_55e73638ac22e5.wav",
+    "question": "After the second section containing coughing, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "water drops"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_1858f3dfafeddf",
+    "sample_id": "esc50repv2_7b84ea5172f323",
+    "audio_file": "audio/esc50repv2_7b84ea5172f323.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a crow"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_187eb13913db12",
+    "sample_id": "esc50repv2_de0e1854c01912",
+    "audio_file": "audio/esc50repv2_de0e1854c01912.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_19e56ff35708fb",
+    "sample_id": "esc50repv2_41f370b226a27e",
+    "audio_file": "audio/esc50repv2_41f370b226a27e.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_1aa23191a89419",
+    "sample_id": "esc50repv2_ed458f6c6348d1",
+    "audio_file": "audio/esc50repv2_ed458f6c6348d1.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knock on a wooden door → tooth brushing → coughing → snoring → tooth brushing"
+      },
+      {
+        "key": "B",
+        "text": "tooth brushing → snoring → coughing → tooth brushing → a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "snoring → coughing → tooth brushing → a knock on a wooden door → tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing → snoring → coughing → a knock on a wooden door → tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_1b556796f26feb",
+    "sample_id": "esc50repv2_bbb7b40c3786f3",
+    "audio_file": "audio/esc50repv2_bbb7b40c3786f3.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_1ebca2ac192bdd",
+    "sample_id": "esc50repv2_8acc88f3d85af9",
+    "audio_file": "audio/esc50repv2_8acc88f3d85af9.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "sea waves"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_207c85e38e93e2",
+    "sample_id": "esc50repv2_6b3ea27221d42c",
+    "audio_file": "audio/esc50repv2_6b3ea27221d42c.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_23d1d3c8458511",
+    "sample_id": "esc50repv2_be65b4103f1f6b",
+    "audio_file": "audio/esc50repv2_be65b4103f1f6b.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing laughter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_25268f59f59b12",
+    "sample_id": "esc50repv2_fd5da82fc3d769",
+    "audio_file": "audio/esc50repv2_fd5da82fc3d769.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_2817b35a2a47ab",
+    "sample_id": "esc50repv2_7b84ea5172f323",
+    "audio_file": "audio/esc50repv2_7b84ea5172f323.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing a crow?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_2a3c61f063ca76",
+    "sample_id": "esc50repv2_383afffff89912",
+    "audio_file": "audio/esc50repv2_383afffff89912.wav",
+    "question": "After the second section containing an alarm clock, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sneezing"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_2f732b6a62e74b",
+    "sample_id": "esc50repv2_cae404a8755c3d",
+    "audio_file": "audio/esc50repv2_cae404a8755c3d.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow"
+      },
+      {
+        "key": "B",
+        "text": "crickets"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_303504e5a0eea6",
+    "sample_id": "esc50repv2_1b64422667e0f3",
+    "audio_file": "audio/esc50repv2_1b64422667e0f3.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "water pouring"
+      },
+      {
+        "key": "C",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_3ce328b1e0a3e5",
+    "sample_id": "esc50repv2_06a7e7935af5e7",
+    "audio_file": "audio/esc50repv2_06a7e7935af5e7.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "B",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "C",
+        "text": "a car horn"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_3e293b57aab61a",
+    "sample_id": "esc50repv2_bbbfe6e92445bf",
+    "audio_file": "audio/esc50repv2_bbbfe6e92445bf.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "a toilet flush"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_3edf8920919ecf",
+    "sample_id": "esc50repv2_dce64b963dc0a6",
+    "audio_file": "audio/esc50repv2_dce64b963dc0a6.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "a car horn"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_3fefa0fdf87f6f",
+    "sample_id": "esc50repv2_91b52c5098485b",
+    "audio_file": "audio/esc50repv2_91b52c5098485b.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "tooth brushing → rain → snoring → fireworks → rain"
+      },
+      {
+        "key": "B",
+        "text": "rain → tooth brushing → fireworks → snoring → rain"
+      },
+      {
+        "key": "C",
+        "text": "rain → snoring → tooth brushing → fireworks → rain"
+      },
+      {
+        "key": "D",
+        "text": "rain → tooth brushing → snoring → fireworks → rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_42d087fd177e38",
+    "sample_id": "esc50repv2_55e73638ac22e5",
+    "audio_file": "audio/esc50repv2_55e73638ac22e5.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "water drops"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_47ac92c72f9302",
+    "sample_id": "esc50repv2_e6ca1c58af14f1",
+    "audio_file": "audio/esc50repv2_e6ca1c58af14f1.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing a thunderstorm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_4839cf0c74af93",
+    "sample_id": "esc50repv2_98652b542ca672",
+    "audio_file": "audio/esc50repv2_98652b542ca672.wav",
+    "question": "After the second section containing a siren, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_493706c60066fa",
+    "sample_id": "esc50repv2_faa0503f0ebd51",
+    "audio_file": "audio/esc50repv2_faa0503f0ebd51.wav",
+    "question": "After the second section containing an opening or creaking door, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cat"
+      },
+      {
+        "key": "B",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "a knock on a wooden door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_49635df4e69126",
+    "sample_id": "esc50repv2_b2b3318700e783",
+    "audio_file": "audio/esc50repv2_b2b3318700e783.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "bells"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_49f1e96446ae49",
+    "sample_id": "esc50repv2_15c9a38b5d421e",
+    "audio_file": "audio/esc50repv2_15c9a38b5d421e.wav",
+    "question": "At which position does water pouring return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "second"
+      },
+      {
+        "key": "B",
+        "text": "third"
+      },
+      {
+        "key": "C",
+        "text": "fifth"
+      },
+      {
+        "key": "D",
+        "text": "fourth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_4a5a8dd7240a8f",
+    "sample_id": "esc50repv2_de0e1854c01912",
+    "audio_file": "audio/esc50repv2_de0e1854c01912.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a frog"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_52dd9d188daafd",
+    "sample_id": "esc50repv2_c853b1325412f9",
+    "audio_file": "audio/esc50repv2_c853b1325412f9.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a crow"
+      },
+      {
+        "key": "B",
+        "text": "a frog"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_52ebd45c8fdc7c",
+    "sample_id": "esc50repv2_bbb7b40c3786f3",
+    "audio_file": "audio/esc50repv2_bbb7b40c3786f3.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush → breathing → keyboard typing → breaking glass → a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush → keyboard typing → breathing → breaking glass → a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "breathing → a toilet flush → keyboard typing → breaking glass → a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a toilet flush → breaking glass → keyboard typing → breathing → a toilet flush"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_54f58be4999790",
+    "sample_id": "esc50repv2_5b0aa7435456cc",
+    "audio_file": "audio/esc50repv2_5b0aa7435456cc.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a dog → laughter → an engine → breaking glass → an engine"
+      },
+      {
+        "key": "B",
+        "text": "an engine → a dog → laughter → breaking glass → an engine"
+      },
+      {
+        "key": "C",
+        "text": "a dog → an engine → laughter → an engine → breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "an engine → a dog → laughter → an engine → breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_5e69b80a6e24bc",
+    "sample_id": "esc50repv2_c853b1325412f9",
+    "audio_file": "audio/esc50repv2_c853b1325412f9.wav",
+    "question": "Which sound type begins earlier: the second section containing a frog, or rain?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_60e7ad0b885cec",
+    "sample_id": "esc50repv2_47cf1511e92f0e",
+    "audio_file": "audio/esc50repv2_47cf1511e92f0e.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing breaking glass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6279730da0d5e6",
+    "sample_id": "esc50repv2_d5df589c409e25",
+    "audio_file": "audio/esc50repv2_d5df589c409e25.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "laughter"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_696c570a2fed39",
+    "sample_id": "esc50repv2_de0e1854c01912",
+    "audio_file": "audio/esc50repv2_de0e1854c01912.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping → a frog → a dog → a rooster → a dog"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping → a dog → a rooster → a dog → a frog"
+      },
+      {
+        "key": "C",
+        "text": "a frog → birds chirping → a dog → a rooster → a dog"
+      },
+      {
+        "key": "D",
+        "text": "a dog → a rooster → a dog → birds chirping → a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6aa814a4a714f4",
+    "sample_id": "esc50repv2_faa0503f0ebd51",
+    "audio_file": "audio/esc50repv2_faa0503f0ebd51.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cat"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6b949caa440969",
+    "sample_id": "esc50repv2_9c62e19444958c",
+    "audio_file": "audio/esc50repv2_9c62e19444958c.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "coughing"
+      },
+      {
+        "key": "D",
+        "text": "an engine"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6c21dcb111fa5f",
+    "sample_id": "esc50repv2_d71e1b588648c1",
+    "audio_file": "audio/esc50repv2_d71e1b588648c1.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "C",
+        "text": "a cat"
+      },
+      {
+        "key": "D",
+        "text": "water pouring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6f5b421de899d0",
+    "sample_id": "esc50repv2_e2a31167a8aa25",
+    "audio_file": "audio/esc50repv2_e2a31167a8aa25.wav",
+    "question": "At which position does sneezing return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "second"
+      },
+      {
+        "key": "B",
+        "text": "third"
+      },
+      {
+        "key": "C",
+        "text": "fourth"
+      },
+      {
+        "key": "D",
+        "text": "fifth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_6f90f98a915a79",
+    "sample_id": "esc50repv2_c43c1e475864ae",
+    "audio_file": "audio/esc50repv2_c43c1e475864ae.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_73b575fda12fab",
+    "sample_id": "esc50repv2_0d73074d2730f7",
+    "audio_file": "audio/esc50repv2_0d73074d2730f7.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "snoring"
+      },
+      {
+        "key": "B",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "C",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_77333779d58246",
+    "sample_id": "esc50repv2_bbbfe6e92445bf",
+    "audio_file": "audio/esc50repv2_bbbfe6e92445bf.wav",
+    "question": "After the first section containing a knock on a wooden door, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_77414dc9f4ae6d",
+    "sample_id": "esc50repv2_92ac16cf1a2adc",
+    "audio_file": "audio/esc50repv2_92ac16cf1a2adc.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "laughter"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_77a1515c70ae0f",
+    "sample_id": "esc50repv2_5b0aa7435456cc",
+    "audio_file": "audio/esc50repv2_5b0aa7435456cc.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "laughter"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_77e12d2012b2db",
+    "sample_id": "esc50repv2_8acc88f3d85af9",
+    "audio_file": "audio/esc50repv2_8acc88f3d85af9.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a crow"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "sea waves"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_7d090ee81798db",
+    "sample_id": "esc50repv2_0d73074d2730f7",
+    "audio_file": "audio/esc50repv2_0d73074d2730f7.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "snoring"
+      },
+      {
+        "key": "D",
+        "text": "keyboard typing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_7f4557baa5747f",
+    "sample_id": "esc50repv2_7b84ea5172f323",
+    "audio_file": "audio/esc50repv2_7b84ea5172f323.wav",
+    "question": "Which sound type begins earlier: the second section containing a crow, or keyboard typing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_84ce91b851726e",
+    "sample_id": "esc50repv2_54532ffd666aa5",
+    "audio_file": "audio/esc50repv2_54532ffd666aa5.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "an engine"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_86268451d98971",
+    "sample_id": "esc50repv2_566e17eb20418f",
+    "audio_file": "audio/esc50repv2_566e17eb20418f.wav",
+    "question": "Which sound type begins earlier: the second section containing breathing, or a chainsaw?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_86f29e74ddb346",
+    "sample_id": "esc50repv2_41f370b226a27e",
+    "audio_file": "audio/esc50repv2_41f370b226a27e.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breaking glass → an opening or creaking door → a cow → birds chirping → breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass → birds chirping → a cow → an opening or creaking door → breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door → breaking glass → a cow → birds chirping → breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass → an opening or creaking door → birds chirping → a cow → breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_87e51335fcbbba",
+    "sample_id": "esc50repv2_b2b3318700e783",
+    "audio_file": "audio/esc50repv2_b2b3318700e783.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing bells?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_882070047c7133",
+    "sample_id": "esc50repv2_bbb7b40c3786f3",
+    "audio_file": "audio/esc50repv2_bbb7b40c3786f3.wav",
+    "question": "After the first section containing a toilet flush, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "breathing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_8abd35934d617e",
+    "sample_id": "esc50repv2_71d2aa1010b0bf",
+    "audio_file": "audio/esc50repv2_71d2aa1010b0bf.wav",
+    "question": "After the first section containing a ticking clock, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_8cb26a12f0c889",
+    "sample_id": "esc50repv2_fd5da82fc3d769",
+    "audio_file": "audio/esc50repv2_fd5da82fc3d769.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_8de4209db0a1b4",
+    "sample_id": "esc50repv2_91b52c5098485b",
+    "audio_file": "audio/esc50repv2_91b52c5098485b.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "rain"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_8e79f8dc9531a0",
+    "sample_id": "esc50repv2_dce64b963dc0a6",
+    "audio_file": "audio/esc50repv2_dce64b963dc0a6.wav",
+    "question": "Which sound type begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "a mouse click"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a car horn"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_8fcc1c6510c8c8",
+    "sample_id": "esc50repv2_d1224f84dbe95f",
+    "audio_file": "audio/esc50repv2_d1224f84dbe95f.wav",
+    "question": "After the second section containing water drops, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_92d2ec185f4cbe",
+    "sample_id": "esc50repv2_6b3ea27221d42c",
+    "audio_file": "audio/esc50repv2_6b3ea27221d42c.wav",
+    "question": "Which sound type begins earlier: the second section containing insects, or a ticking clock?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_935718cf561868",
+    "sample_id": "esc50repv2_e2a31167a8aa25",
+    "audio_file": "audio/esc50repv2_e2a31167a8aa25.wav",
+    "question": "Which sound type begins third?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "bells"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_94c7b0ae3baf59",
+    "sample_id": "esc50repv2_5c1fe7329d2743",
+    "audio_file": "audio/esc50repv2_5c1fe7329d2743.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a rooster"
+      },
+      {
+        "key": "C",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "D",
+        "text": "footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_9534c6f32498ba",
+    "sample_id": "esc50repv2_6f4e95edf6d7bf",
+    "audio_file": "audio/esc50repv2_6f4e95edf6d7bf.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_9d70de3d74b9b7",
+    "sample_id": "esc50repv2_e2a31167a8aa25",
+    "audio_file": "audio/esc50repv2_e2a31167a8aa25.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "a mouse click"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "sneezing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_9e07b309bea151",
+    "sample_id": "esc50repv2_60a7bf1b082995",
+    "audio_file": "audio/esc50repv2_60a7bf1b082995.wav",
+    "question": "At which position does rain return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fifth"
+      },
+      {
+        "key": "B",
+        "text": "second"
+      },
+      {
+        "key": "C",
+        "text": "third"
+      },
+      {
+        "key": "D",
+        "text": "fourth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_9edf0901fd2a5e",
+    "sample_id": "esc50repv2_d71e1b588648c1",
+    "audio_file": "audio/esc50repv2_d71e1b588648c1.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a car horn"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a1327b539c407e",
+    "sample_id": "esc50repv2_98e8e749b9909f",
+    "audio_file": "audio/esc50repv2_98e8e749b9909f.wav",
+    "question": "Which sound type begins second?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "clapping"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a278165c389ba6",
+    "sample_id": "esc50repv2_59edeb13afbd34",
+    "audio_file": "audio/esc50repv2_59edeb13afbd34.wav",
+    "question": "At which position does an engine return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "second"
+      },
+      {
+        "key": "B",
+        "text": "third"
+      },
+      {
+        "key": "C",
+        "text": "fifth"
+      },
+      {
+        "key": "D",
+        "text": "fourth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a2ddeabd85da96",
+    "sample_id": "esc50repv2_dce64b963dc0a6",
+    "audio_file": "audio/esc50repv2_dce64b963dc0a6.wav",
+    "question": "Which sound type begins fourth?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "coughing"
+      },
+      {
+        "key": "C",
+        "text": "a car horn"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a712189b93b450",
+    "sample_id": "esc50repv2_383afffff89912",
+    "audio_file": "audio/esc50repv2_383afffff89912.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "D",
+        "text": "sneezing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a7155bc0e77e16",
+    "sample_id": "esc50repv2_06a7e7935af5e7",
+    "audio_file": "audio/esc50repv2_06a7e7935af5e7.wav",
+    "question": "After the second section containing a vacuum cleaner, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "a car horn"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_a9651778b8c9d3",
+    "sample_id": "esc50repv2_6b3ea27221d42c",
+    "audio_file": "audio/esc50repv2_6b3ea27221d42c.wav",
+    "question": "After the first section containing insects, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a dog"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "water drops"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_aec25e6778f42c",
+    "sample_id": "esc50repv2_54532ffd666aa5",
+    "audio_file": "audio/esc50repv2_54532ffd666aa5.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "clapping"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_b4d9c48fed6909",
+    "sample_id": "esc50repv2_ed458f6c6348d1",
+    "audio_file": "audio/esc50repv2_ed458f6c6348d1.wav",
+    "question": "After the first section containing tooth brushing, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "snoring"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_b8f3cd45790253",
+    "sample_id": "esc50repv2_60a7bf1b082995",
+    "audio_file": "audio/esc50repv2_60a7bf1b082995.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_bbf9e9a857b0ba",
+    "sample_id": "esc50repv2_d1224f84dbe95f",
+    "audio_file": "audio/esc50repv2_d1224f84dbe95f.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "water drops"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_bcea6508d7ec4c",
+    "sample_id": "esc50repv2_d1224f84dbe95f",
+    "audio_file": "audio/esc50repv2_d1224f84dbe95f.wav",
+    "question": "Which sound type begins earlier: the second section containing water drops, or an opening or creaking door?",
+    "options": [
+      {
+        "key": "A",
+        "text": "clapping"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "water drops"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_c02213c43988d5",
+    "sample_id": "esc50repv2_ed458f6c6348d1",
+    "audio_file": "audio/esc50repv2_ed458f6c6348d1.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_c373f2ff617a45",
+    "sample_id": "esc50repv2_fd5da82fc3d769",
+    "audio_file": "audio/esc50repv2_fd5da82fc3d769.wav",
+    "question": "Which sound type begins third?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_c3a33f7647a91f",
+    "sample_id": "esc50repv2_be65b4103f1f6b",
+    "audio_file": "audio/esc50repv2_be65b4103f1f6b.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a crow"
+      },
+      {
+        "key": "B",
+        "text": "laughter"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_c8dd0bf3c6164c",
+    "sample_id": "esc50repv2_c853b1325412f9",
+    "audio_file": "audio/esc50repv2_c853b1325412f9.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "snoring"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "a frog"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_cfeedb7b931d9e",
+    "sample_id": "esc50repv2_e6ca1c58af14f1",
+    "audio_file": "audio/esc50repv2_e6ca1c58af14f1.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_d075229f06109c",
+    "sample_id": "esc50repv2_e5c758a86a5a2e",
+    "audio_file": "audio/esc50repv2_e5c758a86a5a2e.wav",
+    "question": "At which position does snoring return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "third"
+      },
+      {
+        "key": "B",
+        "text": "second"
+      },
+      {
+        "key": "C",
+        "text": "fourth"
+      },
+      {
+        "key": "D",
+        "text": "fifth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_d2193668e8a527",
+    "sample_id": "esc50repv2_41f370b226a27e",
+    "audio_file": "audio/esc50repv2_41f370b226a27e.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "birds chirping"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_d2adb2c4d2fccd",
+    "sample_id": "esc50repv2_98652b542ca672",
+    "audio_file": "audio/esc50repv2_98652b542ca672.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "laughter"
+      },
+      {
+        "key": "B",
+        "text": "an engine"
+      },
+      {
+        "key": "C",
+        "text": "a cat"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_d402e400911e44",
+    "sample_id": "esc50repv2_92ac16cf1a2adc",
+    "audio_file": "audio/esc50repv2_92ac16cf1a2adc.wav",
+    "question": "After the first section containing footsteps, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "a frog"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_d4a320d728ffd0",
+    "sample_id": "esc50repv2_71d2aa1010b0bf",
+    "audio_file": "audio/esc50repv2_71d2aa1010b0bf.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_db8d08e80fb0df",
+    "sample_id": "esc50repv2_566e17eb20418f",
+    "audio_file": "audio/esc50repv2_566e17eb20418f.wav",
+    "question": "At which position does breathing return in the five-part sequence?",
+    "options": [
+      {
+        "key": "A",
+        "text": "second"
+      },
+      {
+        "key": "B",
+        "text": "fourth"
+      },
+      {
+        "key": "C",
+        "text": "third"
+      },
+      {
+        "key": "D",
+        "text": "fifth"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_e1066c58cda463",
+    "sample_id": "esc50repv2_15c9a38b5d421e",
+    "audio_file": "audio/esc50repv2_15c9a38b5d421e.wav",
+    "question": "Which sound type begins fourth?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "B",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "water pouring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_e1c0f852aaafa1",
+    "sample_id": "esc50repv2_cae404a8755c3d",
+    "audio_file": "audio/esc50repv2_cae404a8755c3d.wav",
+    "question": "Which sound type begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "crickets"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_e1f37217e9ce57",
+    "sample_id": "esc50repv2_59edeb13afbd34",
+    "audio_file": "audio/esc50repv2_59edeb13afbd34.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_e37bbcd04e4139",
+    "sample_id": "esc50repv2_d5df589c409e25",
+    "audio_file": "audio/esc50repv2_d5df589c409e25.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_e43a02a62da993",
+    "sample_id": "esc50repv2_5c1fe7329d2743",
+    "audio_file": "audio/esc50repv2_5c1fe7329d2743.wav",
+    "question": "How many labeled sound sections begin between the two separated sections containing a rooster?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_eaac3f298f031a",
+    "sample_id": "esc50repv2_98e8e749b9909f",
+    "audio_file": "audio/esc50repv2_98e8e749b9909f.wav",
+    "question": "After the second section containing clapping, which sound type begins next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_ee2f9e66ea596c",
+    "sample_id": "esc50repv2_566e17eb20418f",
+    "audio_file": "audio/esc50repv2_566e17eb20418f.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "breathing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_efaf8392d6b333",
+    "sample_id": "esc50repv2_6f4e95edf6d7bf",
+    "audio_file": "audio/esc50repv2_6f4e95edf6d7bf.wav",
+    "question": "Which sound type begins earlier: the second section containing a cow, or an alarm clock?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_f0bb4d91fe1484",
+    "sample_id": "esc50repv2_92ac16cf1a2adc",
+    "audio_file": "audio/esc50repv2_92ac16cf1a2adc.wav",
+    "question": "Which sound type begins earlier: the second section containing footsteps, or a thunderstorm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "a frog"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qarep2_ffb6080dc6d35c",
+    "sample_id": "esc50repv2_98e8e749b9909f",
+    "audio_file": "audio/esc50repv2_98e8e749b9909f.wav",
+    "question": "Which sound type returns later after other sounds have been heard?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_03d33d2b143429",
+    "sample_id": "esc50scaled75_bf605298fdfda5",
+    "audio_file": "audio/esc50scaled75_bf605298fdfda5.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "a frog"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_04dffa37b0bb3c",
+    "sample_id": "esc50scaled75_c069e56abd98d8",
+    "audio_file": "audio/esc50scaled75_c069e56abd98d8.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a rooster"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_0999f8b0fdab2d",
+    "sample_id": "esc50div13_2ca650db1c7872",
+    "audio_file": "audio/esc50div13_2ca650db1c7872.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_09d94a44932df8",
+    "sample_id": "esc50div13_a375511f8e13ad",
+    "audio_file": "audio/esc50div13_a375511f8e13ad.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_0b488d2a97e5a0",
+    "sample_id": "esc50div13_c5ec0d236aa412",
+    "audio_file": "audio/esc50div13_c5ec0d236aa412.wav",
+    "question": "Which listed sound type begins next after water pouring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a frog"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "a siren"
+      },
+      {
+        "key": "D",
+        "text": "a knock on a wooden door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_111c22c65ebcfe",
+    "sample_id": "esc50main25_bb13d4c24eda5a",
+    "audio_file": "audio/esc50main25_bb13d4c24eda5a.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "clapping"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_1196bfd8e80512",
+    "sample_id": "esc50scaled75_c6649f6ae559fd",
+    "audio_file": "audio/esc50scaled75_c6649f6ae559fd.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "breathing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_1256b345e42cd8",
+    "sample_id": "esc50main25_4ce8e1cff7b751",
+    "audio_file": "audio/esc50main25_4ce8e1cff7b751.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_12aee01080730c",
+    "sample_id": "esc50scaled75_b7f783d2066d1c",
+    "audio_file": "audio/esc50scaled75_b7f783d2066d1c.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "an engine"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_141cd8f3bee50e",
+    "sample_id": "esc50div13_9006eabfde1dc6",
+    "audio_file": "audio/esc50div13_9006eabfde1dc6.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sneezing"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_154d0b6d0d2a0d",
+    "sample_id": "esc50scaled75_5d00d979f537e1",
+    "audio_file": "audio/esc50scaled75_5d00d979f537e1.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "water pouring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_162bbdf9269394",
+    "sample_id": "esc50main25_b74232e6c58be8",
+    "audio_file": "audio/esc50main25_b74232e6c58be8.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "laughter"
+      },
+      {
+        "key": "C",
+        "text": "a siren"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_188de022218c5a",
+    "sample_id": "esc50scaled75_1c6cef2f5dbb0d",
+    "audio_file": "audio/esc50scaled75_1c6cef2f5dbb0d.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "rain"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_1c3cd0517afdfd",
+    "sample_id": "esc50scaled75_02ff9720ae8b18",
+    "audio_file": "audio/esc50scaled75_02ff9720ae8b18.wav",
+    "question": "Which listed sound type begins next after breathing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "water drops"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_1e3125f59ddd1e",
+    "sample_id": "esc50scaled75_2d4eaac9bc0a9f",
+    "audio_file": "audio/esc50scaled75_2d4eaac9bc0a9f.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "a crow"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_20f6c857192b07",
+    "sample_id": "esc50scaled75_da17bd756ad060",
+    "audio_file": "audio/esc50scaled75_da17bd756ad060.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2243c306deef32",
+    "sample_id": "esc50scaled75_2cab6896e160f2",
+    "audio_file": "audio/esc50scaled75_2cab6896e160f2.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "snoring"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_241d445f5a1c4e",
+    "sample_id": "esc50scaled75_21de49543c1744",
+    "audio_file": "audio/esc50scaled75_21de49543c1744.wav",
+    "question": "Which listed sound type begins next after a vacuum cleaner?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2584c765f01ed0",
+    "sample_id": "esc50div13_2ca650db1c7872",
+    "audio_file": "audio/esc50div13_2ca650db1c7872.wav",
+    "question": "Which labeled sound type is followed by the longest pause before the next sound type begins?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "bells"
+      },
+      {
+        "key": "C",
+        "text": "clapping"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_269048ffa0867c",
+    "sample_id": "esc50scaled75_d674e30189cd4d",
+    "audio_file": "audio/esc50scaled75_d674e30189cd4d.wav",
+    "question": "Which listed sound type begins next after footsteps?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "breathing"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_293b243eed5df5",
+    "sample_id": "esc50scaled75_9bb07941cd5e31",
+    "audio_file": "audio/esc50scaled75_9bb07941cd5e31.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "sea waves"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_294bad39c05e1e",
+    "sample_id": "esc50scaled75_27ed0892a0b4ce",
+    "audio_file": "audio/esc50scaled75_27ed0892a0b4ce.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sneezing"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2b508154f1b548",
+    "sample_id": "esc50scaled75_9ab608de677b3e",
+    "audio_file": "audio/esc50scaled75_9ab608de677b3e.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2d9e90f460eb04",
+    "sample_id": "esc50scaled75_5e02c31e13892e",
+    "audio_file": "audio/esc50scaled75_5e02c31e13892e.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2f650433a2dab5",
+    "sample_id": "esc50scaled75_d30c978200df3c",
+    "audio_file": "audio/esc50scaled75_d30c978200df3c.wav",
+    "question": "Which listed sound type begins next after a vacuum cleaner?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "C",
+        "text": "coughing"
+      },
+      {
+        "key": "D",
+        "text": "a cat"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2fba09ca9434aa",
+    "sample_id": "esc50scaled75_d9ae6e6a63c176",
+    "audio_file": "audio/esc50scaled75_d9ae6e6a63c176.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "an engine"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_2fcdcc07429462",
+    "sample_id": "esc50scaled75_577c830de97fc6",
+    "audio_file": "audio/esc50scaled75_577c830de97fc6.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_32248325b952b6",
+    "sample_id": "esc50scaled75_12de57ec90aae4",
+    "audio_file": "audio/esc50scaled75_12de57ec90aae4.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "laughter"
+      },
+      {
+        "key": "B",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_39ab6f28210479",
+    "sample_id": "esc50scaled75_04d06bf5ba4e94",
+    "audio_file": "audio/esc50scaled75_04d06bf5ba4e94.wav",
+    "question": "Which labeled sound type is followed by the longest pause before the next sound type begins?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_3c275a006edfd0",
+    "sample_id": "esc50main25_f80e314b0e290d",
+    "audio_file": "audio/esc50main25_f80e314b0e290d.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "bells"
+      },
+      {
+        "key": "D",
+        "text": "keyboard typing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_3cd3422419de84",
+    "sample_id": "esc50scaled75_d9ae6e6a63c176",
+    "audio_file": "audio/esc50scaled75_d9ae6e6a63c176.wav",
+    "question": "Which listed sound type begins next after breathing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "water pouring"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4150a9a6bf48a3",
+    "sample_id": "esc50scaled75_b9116c38b4b2ce",
+    "audio_file": "audio/esc50scaled75_b9116c38b4b2ce.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "snoring"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_436fb44653a311",
+    "sample_id": "esc50main25_f6128620458f03",
+    "audio_file": "audio/esc50main25_f6128620458f03.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a frog"
+      },
+      {
+        "key": "B",
+        "text": "bells"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_43f6a0403771e2",
+    "sample_id": "esc50main25_c73ee29fc32bfa",
+    "audio_file": "audio/esc50main25_c73ee29fc32bfa.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_460927aa55edcd",
+    "sample_id": "esc50scaled75_1057f2c39b296c",
+    "audio_file": "audio/esc50scaled75_1057f2c39b296c.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "sea waves"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4617f51e7d3ed8",
+    "sample_id": "esc50div13_9469b12acf8602",
+    "audio_file": "audio/esc50div13_9469b12acf8602.wav",
+    "question": "Which listed sound type begins next after breaking glass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4907722c53968a",
+    "sample_id": "esc50scaled75_1057f2c39b296c",
+    "audio_file": "audio/esc50scaled75_1057f2c39b296c.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sea waves"
+      },
+      {
+        "key": "B",
+        "text": "insects"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4a567f0413636e",
+    "sample_id": "esc50main25_f6128620458f03",
+    "audio_file": "audio/esc50main25_f6128620458f03.wav",
+    "question": "Which listed sound type begins next after a dog?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "sea waves"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4be5d513edb571",
+    "sample_id": "esc50div13_f07747c4fae428",
+    "audio_file": "audio/esc50div13_f07747c4fae428.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "bells"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4e2e71cf511d91",
+    "sample_id": "esc50scaled75_b4fac1628aa4f6",
+    "audio_file": "audio/esc50scaled75_b4fac1628aa4f6.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "D",
+        "text": "water drops"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4fcd2b4b05bda8",
+    "sample_id": "esc50div13_f07747c4fae428",
+    "audio_file": "audio/esc50div13_f07747c4fae428.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "bells"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_4fee04eb7e1d2b",
+    "sample_id": "esc50main25_b74232e6c58be8",
+    "audio_file": "audio/esc50main25_b74232e6c58be8.wav",
+    "question": "Which listed sound type begins next after a siren?",
+    "options": [
+      {
+        "key": "A",
+        "text": "laughter"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_509efe7290cc97",
+    "sample_id": "esc50scaled75_5e71ffc648b833",
+    "audio_file": "audio/esc50scaled75_5e71ffc648b833.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "B",
+        "text": "a car horn"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_50a3f4a73b66a5",
+    "sample_id": "esc50div13_012cd2b3bdc57f",
+    "audio_file": "audio/esc50div13_012cd2b3bdc57f.wav",
+    "question": "How many different sound types begin before a rooster?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_521f2ead5b2633",
+    "sample_id": "esc50scaled75_5d00d979f537e1",
+    "audio_file": "audio/esc50scaled75_5d00d979f537e1.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_5305ce41b26025",
+    "sample_id": "esc50scaled75_0f0f952eba0be5",
+    "audio_file": "audio/esc50scaled75_0f0f952eba0be5.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "breathing"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_5c23bb31a7411d",
+    "sample_id": "esc50scaled75_b5c4fa0a4beb71",
+    "audio_file": "audio/esc50scaled75_b5c4fa0a4beb71.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_5c660147ffbf9d",
+    "sample_id": "esc50scaled75_0f0f952eba0be5",
+    "audio_file": "audio/esc50scaled75_0f0f952eba0be5.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_5d1e7df9f232e0",
+    "sample_id": "esc50scaled75_9a8470d0ed8fc8",
+    "audio_file": "audio/esc50scaled75_9a8470d0ed8fc8.wav",
+    "question": "Which listed sound type begins next after breathing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "D",
+        "text": "a mouse click"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_5f2e1509933f84",
+    "sample_id": "esc50scaled75_da17bd756ad060",
+    "audio_file": "audio/esc50scaled75_da17bd756ad060.wav",
+    "question": "Which listed sound type begins next after a thunderstorm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "a car horn"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_628318392680a3",
+    "sample_id": "esc50scaled75_0ff19b34bb9d89",
+    "audio_file": "audio/esc50scaled75_0ff19b34bb9d89.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_68abf8bed352d4",
+    "sample_id": "esc50scaled75_fc4d23c50ebdcc",
+    "audio_file": "audio/esc50scaled75_fc4d23c50ebdcc.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a frog"
+      },
+      {
+        "key": "B",
+        "text": "an engine"
+      },
+      {
+        "key": "C",
+        "text": "fireworks"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_6b31e9b65df377",
+    "sample_id": "esc50main25_b1e5656a761669",
+    "audio_file": "audio/esc50main25_b1e5656a761669.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "a cat"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_6c2eecea4c7e8a",
+    "sample_id": "esc50scaled75_209b9134741868",
+    "audio_file": "audio/esc50scaled75_209b9134741868.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sneezing"
+      },
+      {
+        "key": "B",
+        "text": "an engine"
+      },
+      {
+        "key": "C",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_6fa4653622f6ce",
+    "sample_id": "esc50main25_2a105c5d4f1724",
+    "audio_file": "audio/esc50main25_2a105c5d4f1724.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "sea waves"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_70cda337c2d464",
+    "sample_id": "esc50scaled75_fb53869317d731",
+    "audio_file": "audio/esc50scaled75_fb53869317d731.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "breaking glass"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "bells"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_70f9f111300095",
+    "sample_id": "esc50main25_e960a403d681ea",
+    "audio_file": "audio/esc50main25_e960a403d681ea.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_76749f116a9662",
+    "sample_id": "esc50scaled75_b5c4fa0a4beb71",
+    "audio_file": "audio/esc50scaled75_b5c4fa0a4beb71.wav",
+    "question": "Which listed sound type begins next after an alarm clock?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a dog"
+      },
+      {
+        "key": "B",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "C",
+        "text": "breathing"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7985be3b4fe233",
+    "sample_id": "esc50main25_dac9625ad190b4",
+    "audio_file": "audio/esc50main25_dac9625ad190b4.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7ae6c13b5f8e5d",
+    "sample_id": "esc50main25_f80e314b0e290d",
+    "audio_file": "audio/esc50main25_f80e314b0e290d.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "C",
+        "text": "coughing"
+      },
+      {
+        "key": "D",
+        "text": "bells"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7bef6e47595444",
+    "sample_id": "esc50div13_012cd2b3bdc57f",
+    "audio_file": "audio/esc50div13_012cd2b3bdc57f.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a rooster"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "an alarm clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7c364c8c199f31",
+    "sample_id": "esc50scaled75_702435c0b75aa3",
+    "audio_file": "audio/esc50scaled75_702435c0b75aa3.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7cf6ecc28c499d",
+    "sample_id": "esc50scaled75_b7f783d2066d1c",
+    "audio_file": "audio/esc50scaled75_b7f783d2066d1c.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7d495cecc3a8c3",
+    "sample_id": "esc50scaled75_2cab6896e160f2",
+    "audio_file": "audio/esc50scaled75_2cab6896e160f2.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an engine"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "snoring"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7d7cb4e3ea1994",
+    "sample_id": "esc50div13_5b0587d2ffa56e",
+    "audio_file": "audio/esc50div13_5b0587d2ffa56e.wav",
+    "question": "Which listed sound type begins next after tooth brushing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "laughter"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "a dog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_7f432ff0a14bdf",
+    "sample_id": "esc50div13_a0095ed96867dd",
+    "audio_file": "audio/esc50div13_a0095ed96867dd.wav",
+    "question": "Which labeled sound type is followed by the longest pause before the next sound type begins?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_80112965172b1d",
+    "sample_id": "esc50scaled75_d9ae6e6a63c176",
+    "audio_file": "audio/esc50scaled75_d9ae6e6a63c176.wav",
+    "question": "How many different sound types begin before breathing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8146ab9af111f2",
+    "sample_id": "esc50scaled75_02ff9720ae8b18",
+    "audio_file": "audio/esc50scaled75_02ff9720ae8b18.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water drops"
+      },
+      {
+        "key": "B",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "D",
+        "text": "sneezing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_82067fe2073452",
+    "sample_id": "esc50main25_c73ee29fc32bfa",
+    "audio_file": "audio/esc50main25_c73ee29fc32bfa.wav",
+    "question": "Which listed sound type begins next after water pouring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "a car horn"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_83b5bc7cabfe63",
+    "sample_id": "esc50scaled75_02401bc2b76f4e",
+    "audio_file": "audio/esc50scaled75_02401bc2b76f4e.wav",
+    "question": "Which listed sound type begins next after a ticking clock?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_83e1da0e869ed5",
+    "sample_id": "esc50scaled75_9bb07941cd5e31",
+    "audio_file": "audio/esc50scaled75_9bb07941cd5e31.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_869cd4918c929b",
+    "sample_id": "esc50scaled75_b694169e26710c",
+    "audio_file": "audio/esc50scaled75_b694169e26710c.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "laughter"
+      },
+      {
+        "key": "C",
+        "text": "sea waves"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_879cb4db85bb34",
+    "sample_id": "esc50scaled75_702435c0b75aa3",
+    "audio_file": "audio/esc50scaled75_702435c0b75aa3.wav",
+    "question": "Which listed sound type begins next after water pouring?",
+    "options": [
+      {
+        "key": "A",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "rain"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_88824280aec565",
+    "sample_id": "esc50scaled75_9192fa4b4ebdcd",
+    "audio_file": "audio/esc50scaled75_9192fa4b4ebdcd.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "water drops"
+      },
+      {
+        "key": "C",
+        "text": "bells"
+      },
+      {
+        "key": "D",
+        "text": "a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8a178bcaa378d0",
+    "sample_id": "esc50scaled75_12de57ec90aae4",
+    "audio_file": "audio/esc50scaled75_12de57ec90aae4.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8a1a3bcbf8f413",
+    "sample_id": "esc50div13_c0953bd78425e9",
+    "audio_file": "audio/esc50div13_c0953bd78425e9.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "B",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "a vacuum cleaner"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8a7523b9f45032",
+    "sample_id": "esc50scaled75_b9116c38b4b2ce",
+    "audio_file": "audio/esc50scaled75_b9116c38b4b2ce.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "snoring"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "crickets"
+      },
+      {
+        "key": "D",
+        "text": "water drops"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8b4ef5e2cc6c9d",
+    "sample_id": "esc50scaled75_5e71ffc648b833",
+    "audio_file": "audio/esc50scaled75_5e71ffc648b833.wav",
+    "question": "Which listed sound type begins next after a crow?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "clapping"
+      },
+      {
+        "key": "C",
+        "text": "water drops"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8ee9b7788ea33a",
+    "sample_id": "esc50div13_c5ec0d236aa412",
+    "audio_file": "audio/esc50div13_c5ec0d236aa412.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8f278f5c4ffb71",
+    "sample_id": "esc50scaled75_1057f2c39b296c",
+    "audio_file": "audio/esc50scaled75_1057f2c39b296c.wav",
+    "question": "How many different sound types begin between a crow and insects?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_8f5f7a0110f566",
+    "sample_id": "esc50scaled75_896d9f591e68ee",
+    "audio_file": "audio/esc50scaled75_896d9f591e68ee.wav",
+    "question": "Which listed sound type begins next after a vacuum cleaner?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "water drops"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_93499bab93c898",
+    "sample_id": "esc50scaled75_21de49543c1744",
+    "audio_file": "audio/esc50scaled75_21de49543c1744.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "a rooster"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_95fd8a9ab2dce0",
+    "sample_id": "esc50scaled75_577c830de97fc6",
+    "audio_file": "audio/esc50scaled75_577c830de97fc6.wav",
+    "question": "Which listed sound type begins next after a thunderstorm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "sea waves"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_964d50d0d224bd",
+    "sample_id": "esc50main25_2cad7cec45c6bb",
+    "audio_file": "audio/esc50main25_2cad7cec45c6bb.wav",
+    "question": "Which listed sound type begins next after an opening or creaking door?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sea waves"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_96c823279e10e9",
+    "sample_id": "esc50scaled75_6dcc073df7c1ad",
+    "audio_file": "audio/esc50scaled75_6dcc073df7c1ad.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_97e55dacee245b",
+    "sample_id": "esc50div13_a375511f8e13ad",
+    "audio_file": "audio/esc50div13_a375511f8e13ad.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "clapping"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_9962d7a2337f2d",
+    "sample_id": "esc50scaled75_16ca9625c78f2d",
+    "audio_file": "audio/esc50scaled75_16ca9625c78f2d.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a mouse click"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "breathing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_9d860d759e9b6f",
+    "sample_id": "esc50main25_f6128620458f03",
+    "audio_file": "audio/esc50main25_f6128620458f03.wav",
+    "question": "Which sound type begins second?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "sneezing"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_9d8afaf68fa61b",
+    "sample_id": "esc50scaled75_d674e30189cd4d",
+    "audio_file": "audio/esc50scaled75_d674e30189cd4d.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "breaking glass"
+      },
+      {
+        "key": "D",
+        "text": "a crow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_9f8ca095d620cc",
+    "sample_id": "esc50scaled75_02ff9720ae8b18",
+    "audio_file": "audio/esc50scaled75_02ff9720ae8b18.wav",
+    "question": "How many different sound types begin before breathing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a04d9badc8b8d2",
+    "sample_id": "esc50scaled75_896d9f591e68ee",
+    "audio_file": "audio/esc50scaled75_896d9f591e68ee.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "bells"
+      },
+      {
+        "key": "B",
+        "text": "crickets"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "a knock on a wooden door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a08704390363e3",
+    "sample_id": "esc50main25_4ce8e1cff7b751",
+    "audio_file": "audio/esc50main25_4ce8e1cff7b751.wav",
+    "question": "Which listed sound type begins next after sneezing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "bells"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a1181e445e9018",
+    "sample_id": "esc50scaled75_bf605298fdfda5",
+    "audio_file": "audio/esc50scaled75_bf605298fdfda5.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a frog"
+      },
+      {
+        "key": "C",
+        "text": "rain"
+      },
+      {
+        "key": "D",
+        "text": "a car horn"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a34ac2f739760b",
+    "sample_id": "esc50scaled75_2d4eaac9bc0a9f",
+    "audio_file": "audio/esc50scaled75_2d4eaac9bc0a9f.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "a crow"
+      },
+      {
+        "key": "C",
+        "text": "a ticking clock"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a3deb7ed205294",
+    "sample_id": "esc50div13_2ca650db1c7872",
+    "audio_file": "audio/esc50div13_2ca650db1c7872.wav",
+    "question": "Which listed sound type begins next after clapping?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a car horn"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a42f3585459efc",
+    "sample_id": "esc50scaled75_0ff19b34bb9d89",
+    "audio_file": "audio/esc50scaled75_0ff19b34bb9d89.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "water pouring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a49144f7804de0",
+    "sample_id": "esc50div13_a0095ed96867dd",
+    "audio_file": "audio/esc50div13_a0095ed96867dd.wav",
+    "question": "Which listed sound type begins next after a mouse click?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "a dog"
+      },
+      {
+        "key": "D",
+        "text": "rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a588f0f88152b4",
+    "sample_id": "esc50scaled75_27ed0892a0b4ce",
+    "audio_file": "audio/esc50scaled75_27ed0892a0b4ce.wav",
+    "question": "Which listed sound type begins next after a crow?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a rooster"
+      },
+      {
+        "key": "C",
+        "text": "clapping"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a72280c67b2b7e",
+    "sample_id": "esc50scaled75_3c2ed9481ace94",
+    "audio_file": "audio/esc50scaled75_3c2ed9481ace94.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "crickets"
+      },
+      {
+        "key": "B",
+        "text": "fireworks"
+      },
+      {
+        "key": "C",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a7cd7db87f140b",
+    "sample_id": "esc50scaled75_d30c978200df3c",
+    "audio_file": "audio/esc50scaled75_d30c978200df3c.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "birds chirping"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_a8ec590ff9759b",
+    "sample_id": "esc50scaled75_9ab608de677b3e",
+    "audio_file": "audio/esc50scaled75_9ab608de677b3e.wav",
+    "question": "How many different sound types begin between sea waves and a cow?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "1"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_abc69e6c394fce",
+    "sample_id": "esc50main25_a3fb7ad3e3c418",
+    "audio_file": "audio/esc50main25_a3fb7ad3e3c418.wav",
+    "question": "Which labeled sound type is followed by the longest pause before the next sound type begins?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "a siren"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "a toilet flush"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ad45586aef4e20",
+    "sample_id": "esc50scaled75_d674e30189cd4d",
+    "audio_file": "audio/esc50scaled75_d674e30189cd4d.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps → a thunderstorm → breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm → breaking glass → footsteps"
+      },
+      {
+        "key": "C",
+        "text": "footsteps → breaking glass → a thunderstorm"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm → footsteps → breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_adb836ee6f8f46",
+    "sample_id": "esc50div13_5b0587d2ffa56e",
+    "audio_file": "audio/esc50div13_5b0587d2ffa56e.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "keyboard typing"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_afd8909be3d6c6",
+    "sample_id": "esc50main25_a3fb7ad3e3c418",
+    "audio_file": "audio/esc50main25_a3fb7ad3e3c418.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "bells"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "a toilet flush"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b138385d047417",
+    "sample_id": "esc50main25_bb13d4c24eda5a",
+    "audio_file": "audio/esc50main25_bb13d4c24eda5a.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b3cbf3eab6271e",
+    "sample_id": "esc50scaled75_1d618986f98aa3",
+    "audio_file": "audio/esc50scaled75_1d618986f98aa3.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a crow"
+      },
+      {
+        "key": "B",
+        "text": "rain"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "an engine"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b78029adbf0ac4",
+    "sample_id": "esc50scaled75_cb282a86911ae5",
+    "audio_file": "audio/esc50scaled75_cb282a86911ae5.wav",
+    "question": "Which listed sound type begins next after a knock on a wooden door?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cat"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b7bb05b20ee4a8",
+    "sample_id": "esc50scaled75_96b43312eea37b",
+    "audio_file": "audio/esc50scaled75_96b43312eea37b.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b83e61ed0ce469",
+    "sample_id": "esc50scaled75_6dcc073df7c1ad",
+    "audio_file": "audio/esc50scaled75_6dcc073df7c1ad.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "a crow"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b99560455a380b",
+    "sample_id": "esc50main25_b74232e6c58be8",
+    "audio_file": "audio/esc50main25_b74232e6c58be8.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps → a siren → a cow → laughter"
+      },
+      {
+        "key": "B",
+        "text": "laughter → a cow → a siren → footsteps"
+      },
+      {
+        "key": "C",
+        "text": "footsteps → a siren → laughter → a cow"
+      },
+      {
+        "key": "D",
+        "text": "a siren → a cow → laughter → footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_b9e1b2dfbfbd61",
+    "sample_id": "esc50scaled75_9ffb56d358adb8",
+    "audio_file": "audio/esc50scaled75_9ffb56d358adb8.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "water pouring"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "a crow"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_bb551e22b1a948",
+    "sample_id": "esc50div13_9469b12acf8602",
+    "audio_file": "audio/esc50div13_9469b12acf8602.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "fireworks"
+      },
+      {
+        "key": "B",
+        "text": "coughing"
+      },
+      {
+        "key": "C",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_bee3be7d29f749",
+    "sample_id": "esc50scaled75_04d06bf5ba4e94",
+    "audio_file": "audio/esc50scaled75_04d06bf5ba4e94.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "snoring"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "a cat"
+      },
+      {
+        "key": "D",
+        "text": "footsteps"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_bfb8a5cd011c53",
+    "sample_id": "esc50div13_a0095ed96867dd",
+    "audio_file": "audio/esc50div13_a0095ed96867dd.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "coughing"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_c30bf1e31b4303",
+    "sample_id": "esc50scaled75_9ab608de677b3e",
+    "audio_file": "audio/esc50scaled75_9ab608de677b3e.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sea waves"
+      },
+      {
+        "key": "B",
+        "text": "bells"
+      },
+      {
+        "key": "C",
+        "text": "birds chirping"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_c659d49c8f7bab",
+    "sample_id": "esc50scaled75_5a35a48a75b549",
+    "audio_file": "audio/esc50scaled75_5a35a48a75b549.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a car horn"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ccd965dcc13d92",
+    "sample_id": "esc50scaled75_378be5a61967c6",
+    "audio_file": "audio/esc50scaled75_378be5a61967c6.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "a cow"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_cd4f71b6fb8acb",
+    "sample_id": "esc50scaled75_cb282a86911ae5",
+    "audio_file": "audio/esc50scaled75_cb282a86911ae5.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "B",
+        "text": "a dog"
+      },
+      {
+        "key": "C",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ce1b437a3b5541",
+    "sample_id": "esc50scaled75_378be5a61967c6",
+    "audio_file": "audio/esc50scaled75_378be5a61967c6.wav",
+    "question": "Which listed sound type begins next after footsteps?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "breathing"
+      },
+      {
+        "key": "C",
+        "text": "a cow"
+      },
+      {
+        "key": "D",
+        "text": "birds chirping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_d03e7684d05976",
+    "sample_id": "esc50div13_bdfd9c9be81260",
+    "audio_file": "audio/esc50div13_bdfd9c9be81260.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "coughing"
+      },
+      {
+        "key": "B",
+        "text": "an engine"
+      },
+      {
+        "key": "C",
+        "text": "rain"
+      },
+      {
+        "key": "D",
+        "text": "a cat"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_d53372f4025f12",
+    "sample_id": "esc50scaled75_1c6cef2f5dbb0d",
+    "audio_file": "audio/esc50scaled75_1c6cef2f5dbb0d.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "a siren"
+      },
+      {
+        "key": "D",
+        "text": "an opening or creaking door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_d5e304153837cd",
+    "sample_id": "esc50scaled75_5a35a48a75b549",
+    "audio_file": "audio/esc50scaled75_5a35a48a75b549.wav",
+    "question": "Which listed sound type begins next after coughing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "rain"
+      },
+      {
+        "key": "B",
+        "text": "birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "a car horn"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_d6d3f3a3938238",
+    "sample_id": "esc50scaled75_27ed0892a0b4ce",
+    "audio_file": "audio/esc50scaled75_27ed0892a0b4ce.wav",
+    "question": "Which sound type begins second?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "a crow"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_d99e148c466509",
+    "sample_id": "esc50scaled75_b694169e26710c",
+    "audio_file": "audio/esc50scaled75_b694169e26710c.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "a car horn"
+      },
+      {
+        "key": "D",
+        "text": "laughter"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_daa9dcfa08a134",
+    "sample_id": "esc50main25_dac9625ad190b4",
+    "audio_file": "audio/esc50main25_dac9625ad190b4.wav",
+    "question": "Which listed sound type begins next after tooth brushing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breaking glass"
+      },
+      {
+        "key": "B",
+        "text": "a car horn"
+      },
+      {
+        "key": "C",
+        "text": "a frog"
+      },
+      {
+        "key": "D",
+        "text": "coughing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_dce2f273252b36",
+    "sample_id": "esc50scaled75_3cef7b912ae69a",
+    "audio_file": "audio/esc50scaled75_3cef7b912ae69a.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "B",
+        "text": "a cow"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "sneezing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ddcf054e015532",
+    "sample_id": "esc50scaled75_96b43312eea37b",
+    "audio_file": "audio/esc50scaled75_96b43312eea37b.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "snoring"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "a knock on a wooden door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_df216ad99212ca",
+    "sample_id": "esc50scaled75_c069e56abd98d8",
+    "audio_file": "audio/esc50scaled75_c069e56abd98d8.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw → footsteps → a rooster → rain"
+      },
+      {
+        "key": "B",
+        "text": "footsteps → a chainsaw → a rooster → rain"
+      },
+      {
+        "key": "C",
+        "text": "footsteps → a chainsaw → rain → a rooster"
+      },
+      {
+        "key": "D",
+        "text": "footsteps → a rooster → a chainsaw → rain"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_df7f4a82eb2ece",
+    "sample_id": "esc50scaled75_209b9134741868",
+    "audio_file": "audio/esc50scaled75_209b9134741868.wav",
+    "question": "How many different sound types begin after a mouse click?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "0"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e12a8a41435816",
+    "sample_id": "esc50scaled75_209b9134741868",
+    "audio_file": "audio/esc50scaled75_209b9134741868.wav",
+    "question": "Which listed sound type begins next after an engine?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a mouse click"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "laughter"
+      },
+      {
+        "key": "D",
+        "text": "sea waves"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e27000000aa1c1",
+    "sample_id": "esc50main25_a3fb7ad3e3c418",
+    "audio_file": "audio/esc50main25_a3fb7ad3e3c418.wav",
+    "question": "Which listed sound type begins next after a toilet flush?",
+    "options": [
+      {
+        "key": "A",
+        "text": "insects"
+      },
+      {
+        "key": "B",
+        "text": "a rooster"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "snoring"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e66235f3703a7c",
+    "sample_id": "esc50scaled75_3cef7b912ae69a",
+    "audio_file": "audio/esc50scaled75_3cef7b912ae69a.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "C",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "D",
+        "text": "insects"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e7b88f59fab289",
+    "sample_id": "esc50main25_2cad7cec45c6bb",
+    "audio_file": "audio/esc50main25_2cad7cec45c6bb.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cat"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "clapping"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e86a8af26901f2",
+    "sample_id": "esc50scaled75_fb53869317d731",
+    "audio_file": "audio/esc50scaled75_fb53869317d731.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a dog"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "footsteps"
+      },
+      {
+        "key": "D",
+        "text": "breaking glass"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_e8aac369f3ccf2",
+    "sample_id": "esc50div13_bdfd9c9be81260",
+    "audio_file": "audio/esc50div13_bdfd9c9be81260.wav",
+    "question": "Which listed sound type begins next after coughing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "sea waves"
+      },
+      {
+        "key": "B",
+        "text": "an alarm clock"
+      },
+      {
+        "key": "C",
+        "text": "a cat"
+      },
+      {
+        "key": "D",
+        "text": "a frog"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ea7417af290a77",
+    "sample_id": "esc50scaled75_04d06bf5ba4e94",
+    "audio_file": "audio/esc50scaled75_04d06bf5ba4e94.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a thunderstorm"
+      },
+      {
+        "key": "B",
+        "text": "a cat"
+      },
+      {
+        "key": "C",
+        "text": "snoring"
+      },
+      {
+        "key": "D",
+        "text": "fireworks"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ebaf432af55335",
+    "sample_id": "esc50scaled75_c069e56abd98d8",
+    "audio_file": "audio/esc50scaled75_c069e56abd98d8.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "footsteps"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "C",
+        "text": "insects"
+      },
+      {
+        "key": "D",
+        "text": "a thunderstorm"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_ec873ffe556d64",
+    "sample_id": "esc50div13_9006eabfde1dc6",
+    "audio_file": "audio/esc50div13_9006eabfde1dc6.wav",
+    "question": "Which of these sound types begins first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow"
+      },
+      {
+        "key": "B",
+        "text": "sneezing"
+      },
+      {
+        "key": "C",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "D",
+        "text": "a siren"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f02803ec73d6f9",
+    "sample_id": "esc50scaled75_6dcc073df7c1ad",
+    "audio_file": "audio/esc50scaled75_6dcc073df7c1ad.wav",
+    "question": "How many different sound types begin between fireworks and a thunderstorm?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "0"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f3f3fbf98bcf10",
+    "sample_id": "esc50scaled75_c6649f6ae559fd",
+    "audio_file": "audio/esc50scaled75_c6649f6ae559fd.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "breathing"
+      },
+      {
+        "key": "B",
+        "text": "an opening or creaking door"
+      },
+      {
+        "key": "C",
+        "text": "water pouring"
+      },
+      {
+        "key": "D",
+        "text": "crickets"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f68fa12e9edd2f",
+    "sample_id": "esc50main25_c73ee29fc32bfa",
+    "audio_file": "audio/esc50main25_c73ee29fc32bfa.wav",
+    "question": "How many different sound types begin between water pouring and an opening or creaking door?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "2"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f7599f1d82553d",
+    "sample_id": "esc50scaled75_378be5a61967c6",
+    "audio_file": "audio/esc50scaled75_378be5a61967c6.wav",
+    "question": "Which sequence matches the order in which the sound types begin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a cow → a chainsaw → insects → footsteps → birds chirping"
+      },
+      {
+        "key": "B",
+        "text": "a chainsaw → insects → a cow → footsteps → birds chirping"
+      },
+      {
+        "key": "C",
+        "text": "a chainsaw → a cow → insects → footsteps → birds chirping"
+      },
+      {
+        "key": "D",
+        "text": "a cow → insects → footsteps → birds chirping → a chainsaw"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f7c1b14e70a13d",
+    "sample_id": "esc50main25_e960a403d681ea",
+    "audio_file": "audio/esc50main25_e960a403d681ea.wav",
+    "question": "Which of these sound types begins last?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a siren"
+      },
+      {
+        "key": "B",
+        "text": "a frog"
+      },
+      {
+        "key": "C",
+        "text": "tooth brushing"
+      },
+      {
+        "key": "D",
+        "text": "keyboard typing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_f9eddeca6a71b1",
+    "sample_id": "esc50scaled75_0f0f952eba0be5",
+    "audio_file": "audio/esc50scaled75_0f0f952eba0be5.wav",
+    "question": "Which sound type begins third?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a chainsaw"
+      },
+      {
+        "key": "B",
+        "text": "a toilet flush"
+      },
+      {
+        "key": "C",
+        "text": "a siren"
+      },
+      {
+        "key": "D",
+        "text": "a ticking clock"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_fa20c3d012208b",
+    "sample_id": "esc50scaled75_21de49543c1744",
+    "audio_file": "audio/esc50scaled75_21de49543c1744.wav",
+    "question": "Which sound type begins second?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a vacuum cleaner"
+      },
+      {
+        "key": "B",
+        "text": "a frog"
+      },
+      {
+        "key": "C",
+        "text": "a rooster"
+      },
+      {
+        "key": "D",
+        "text": "a knock on a wooden door"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_fcbc2f3585402d",
+    "sample_id": "esc50scaled75_1d618986f98aa3",
+    "audio_file": "audio/esc50scaled75_1d618986f98aa3.wav",
+    "question": "Which of these sound types begins earlier?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a crow"
+      },
+      {
+        "key": "B",
+        "text": "a knock on a wooden door"
+      },
+      {
+        "key": "C",
+        "text": "an engine"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  },
+  {
+    "qa_id": "qas75_fddf1efbd3b61b",
+    "sample_id": "esc50div13_012cd2b3bdc57f",
+    "audio_file": "audio/esc50div13_012cd2b3bdc57f.wav",
+    "question": "Which listed sound type begins next after breaking glass?",
+    "options": [
+      {
+        "key": "A",
+        "text": "a rooster"
+      },
+      {
+        "key": "B",
+        "text": "footsteps"
+      },
+      {
+        "key": "C",
+        "text": "a mouse click"
+      },
+      {
+        "key": "D",
+        "text": "tooth brushing"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "schema_version": "esc50-temporal-benchmark-v1",
+  "audio_files": 112,
+  "qa_items": 253,
+  "audio_by_source_release": {
+    "scaled_v1": 70,
+    "repeated_v2": 42
+  },
+  "qa_by_source_release": {
+    "repeated_v2": 105,
+    "scaled_v1": 148
+  },
+  "qa_by_family": {
+    "count_before_after": 4,
+    "count_between": 4,
+    "count_between_repetitions": 7,
+    "first": 33,
+    "first_begin": 7,
+    "last": 31,
+    "last_begin": 7,
+    "longest_gap_after": 4,
+    "next_after_first_occurrence": 7,
+    "next_after_second_occurrence": 7,
+    "next_event": 32,
+    "occurrence_qualified_pair_order": 7,
+    "ordinal_position": 11,
+    "pair_order": 32,
+    "returning_category": 42,
+    "second_occurrence_position": 7,
+    "sequence_selection": 11
+  },
+  "questions_per_audio": {
+    "1": 12,
+    "2": 59,
+    "3": 41
+  },
+  "answer_positions": {
+    "A": 63,
+    "B": 63,
+    "C": 63,
+    "D": 64
+  },
+  "parent_hashes": {
+    "scaled_v1": {
+      "composition_manifest_sha256": "9a140d6b57b863bf17f6b0543cbe2dbd5e3839ed12849b51fe632ca0f8b10673",
+      "qa_private_sha256": "6b80c9899dead4d4f6bfa9c2b339d93970d30402be0a2bd7ac6cc5339380ef94"
+    },
+    "repeated_v2": {
+      "composition_manifest_sha256": "c3bc833ee0074db5ff77bccd3a1909e0067386dab4d043309c8a64384545c9b9",
+      "qa_private_sha256": "c0fe6917b4090b0f3c69f6761bc0741b18b2e069e98e73edc467a82732f4b924"
+    }
+  },
+  "policy": {
+    "all_items_four_option": true,
+    "max_questions_per_audio": 3,
+    "longest_duration_removed": true,
+    "engine_vacuum_cooccurrence_removed": true,
+    "release_gate": "ready_by_user_instruction"
+  }
+}

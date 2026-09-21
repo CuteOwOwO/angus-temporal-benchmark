@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Temporal Benchmark Review</title>
+  <link rel="stylesheet" href="/style.css?v=1">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">ANGUS TEMPORAL BENCHMARK</p>
+      <h1>資料審查</h1>
+    </div>
+    <div class="status">
+      <strong id="progress">載入中</strong>
+      <span id="saveState">已同步</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <div class="tabs" role="tablist" aria-label="審查模式">
+        <button id="compositionTab" class="tab active" role="tab" aria-selected="true">音檔</button>
+        <button id="qaTab" class="tab" role="tab" aria-selected="false">QA</button>
+      </div>
+      <label class="pending-filter"><input id="pendingOnly" type="checkbox">只看未審</label>
+    </div>
+
+    <section id="review" hidden>
+      <div class="meta-row">
+        <div>
+          <span id="position"></span>
+          <h2 id="itemTitle"></h2>
+        </div>
+        <span id="badge" class="badge"></span>
+      </div>
+
+      <audio id="audio" controls preload="metadata"></audio>
+
+      <div id="compositionView">
+        <button id="revealTimeline" class="secondary">顯示事件順序</button>
+        <div id="timeline" class="details" hidden>
+          <ol id="eventOrder"></ol>
+          <p id="eventTiming"></p>
+        </div>
+      </div>
+
+      <div id="qaView" hidden>
+        <p id="question" class="question"></p>
+        <fieldset id="answers" class="answers"><legend>你的答案</legend></fieldset>
+        <button id="revealAnswer" class="secondary">顯示標準答案</button>
+        <p id="officialAnswer" class="official" hidden></p>
+      </div>
+
+      <fieldset id="verdicts" class="verdicts">
+        <legend id="verdictLegend">審查結果</legend>
+        <label><input type="radio" name="verdict" value="pass"><span>通過</span></label>
+        <label><input type="radio" name="verdict" value="ambiguous"><span>有歧義</span></label>
+        <label><input type="radio" name="verdict" value="wrong"><span>內容錯誤</span></label>
+        <label><input type="radio" name="verdict" value="audio_issue"><span>音檔問題</span></label>
+      </fieldset>
+
+      <label class="note">備註<textarea id="note" rows="3"></textarea></label>
+
+      <nav>
+        <button id="previous" class="secondary" title="上一筆" aria-label="上一筆">&#8592;</button>
+        <button id="next" title="下一筆" aria-label="下一筆">&#8594;</button>
+      </nav>
+    </section>
+
+    <section id="empty" class="empty" hidden>
+      <h2>沒有符合條件的項目</h2>
+      <p>關閉「只看未審」即可查看全部資料。</p>
+    </section>
+  </main>
+  <script src="/app.js?v=1"></script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+{
+  "esc50div13_012cd2b3bdc57f": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:32:35.246Z"
+  },
+  "esc50div13_2ca650db1c7872": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:33:10.837Z"
+  },
+  "esc50div13_5b0587d2ffa56e": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:33:25.437Z"
+  },
+  "esc50div13_9006eabfde1dc6": {
+    "verdict": "pass",
+    "note": "腳步聲可以長一點嗎? 同樣也是這個長度有點難區分",
+    "reviewed_at": "2026-09-14T10:33:50.523Z"
+  },
+  "esc50div13_9469b12acf8602": {
+    "verdict": "pass",
+    "note": "沒聽到mouse click",
+    "reviewed_at": "2026-09-14T10:34:10.685Z"
+  },
+  "esc50div13_a0095ed96867dd": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:34:20.326Z"
+  },
+  "esc50div13_a375511f8e13ad": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:34:28.961Z"
+  },
+  "esc50div13_bdfd9c9be81260": {
+    "verdict": "pass",
+    "note": "最後敲門音量稍小，加大",
+    "reviewed_at": "2026-09-14T10:34:55.341Z"
+  },
+  "esc50div13_c0953bd78425e9": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:35:02.923Z"
+  },
+  "esc50div13_c5ec0d236aa412": {
+    "verdict": "pass",
+    "note": "笑聲長一點",
+    "reviewed_at": "2026-09-14T10:35:22.719Z"
+  },
+  "esc50div13_f07747c4fae428": {
+    "verdict": "pass",
+    "note": "OK",
+    "reviewed_at": "2026-09-14T10:36:14.250Z"
+  },
+  "esc50repv2_54532ffd666aa5": {
+    "verdict": "pass",
+    "updated_at": "2026-09-21T10:31:55.528Z"
+  },
+  "esc50repv2_566e17eb20418f": {
+    "note": "最後一對吸塵器有點短 聽不出來 吸塵器至少3秒",
+    "updated_at": "2026-09-21T10:32:29.304Z"
+  },
+  "esc50repv2_60a7bf1b082995": {
+    "verdict": "pass",
+    "updated_at": "2026-09-21T10:33:06.734Z"
+  }
+}

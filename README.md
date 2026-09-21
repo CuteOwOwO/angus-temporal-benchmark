@@ -12,6 +12,7 @@ machine.
 - `benchmark/data/composition_manifest.private.json`: construction provenance.
 - `model_setup/`: model download and environment helpers.
 - `generation/`: frozen generation and assembly code for provenance.
+- `web_review/`: local composition and QA review interface.
 - `docs/REMOTE_MACHINE_MODEL_SETUP.md`: GPU machine setup notes.
 - `scripts/validate_dataset.py`: standalone integrity validation.
 
@@ -34,6 +35,19 @@ Expected validation result:
 ```text
 PASS: 112 audio files, 253 QA items
 ```
+
+## Review Website
+
+Start the bundled review interface with no extra dependencies:
+
+```bash
+python3 web_review/server.py
+```
+
+Then open <http://127.0.0.1:8775>. It provides separate views for all 112
+compositions and all 253 QA items. Verdicts and notes are written to
+`web_review/data/`; commit those small JSON files to move review progress
+between machines.
 
 Models and Hugging Face caches should live on the GPU machine's large data
 disk, not inside this repository. Follow `docs/REMOTE_MACHINE_MODEL_SETUP.md`.
